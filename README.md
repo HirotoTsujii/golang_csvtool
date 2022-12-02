@@ -1,1 +1,3 @@
 # golang_csvtool
+
+CSVから特定のカラムを重複なしで別のCSVに抽出するツール
